@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blowfish</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 MoonSoul</copyright>
+    <lastBuildDate>Thu, 31 Jul 2025 09:50:01 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Blog-Construct your own blog</title>
+      <link>http://localhost:1313/posts/first-blog/</link>
+      <pubDate>Thu, 31 Jul 2025 09:50:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-blog/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;The reasons of constructing your own blog 
+    &lt;div id=&#34;the-reasons-of-constructing-your-own-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-reasons-of-constructing-your-own-blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It can serve as a platform to communicate with others&lt;/li&gt;
+&lt;li&gt;It can help strengthen your own skill&lt;/li&gt;
+&lt;li&gt;It can help you have more advantages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;The methods of constructing a blog 
+    &lt;div id=&#34;the-methods-of-constructing-a-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-methods-of-constructing-a-blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a modle like hugo or hexo ,even construt totally by yourself&lt;/li&gt;
+&lt;li&gt;Then choose a theme and make it as the same as what you wish&lt;/li&gt;
+&lt;li&gt;Finally you can start write the blog and the journey to you technology lif&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;What I have get from my own blog 
+    &lt;div id=&#34;what-i-have-get-from-my-own-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#what-i-have-get-from-my-own-blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;That is just the start.
+It wil see in the future&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;the best to go out is always through&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Second Blog-The simple review of the summer vacation</title>
+      <link>http://localhost:1313/posts/second-blog/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/second-blog/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;What I have learned 
+    &lt;div id=&#34;what-i-have-learned&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#what-i-have-learned&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;I have learnt the Qt,done some labs of CSAPP.I also learnt some knowledge of Math modeling.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Some insteresting things 
+    &lt;div id=&#34;some-insteresting-things&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#some-insteresting-things&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Guitar learning&lt;/li&gt;
+&lt;li&gt;Watched the Demon Slayer&lt;/li&gt;
+&lt;li&gt;Construct the blog&lt;/li&gt;
+&lt;li&gt;Read some blog in the BBS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Reflection 
+    &lt;div id=&#34;reflection&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#reflection&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Maybe I can do something better&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
